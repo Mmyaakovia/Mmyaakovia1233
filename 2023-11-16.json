@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Scott",
+  "age": 32,
+  "address": {
+    "street": "Futic Path",
+    "city": "Latopfi",
+    "state": "MN",
+    "zip": "45852"
+  },
+  "contact": {
+    "phone": "(212) 861-7670",
+    "servicePhone": "800682585"
+  },
+  "birthday": "1995-12-17T05:41:32.392Z",
+  "ip": "55.144.140.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Ujepa wirjatoc po bawcepev fo laefuhi ca asiecema bozekez ibonodih sas vilud peg kavgof uhopa izaitafef. Awzu rimfo comcigsa ca de cisi odoko go ipse cuwiila evu wug esegev ziwoj ju umirodzen. Pu weljecaji dad ulgi potilba siz teg jouve gum ewulecis ekiupumuk puamke tomho uf teupi lumki odipeuvo. Pimizgo sotgirid damtevba pihac dic itono jono zegceton ifo cekin emi gu edelepep lere lik ro pickovcad oleev.",
+    "bio": "Vunajiniw bupurfu ejro leku la so vonura uk cisescu dafo hed fomowres nag. Dut mu egpeone ek ge os li epopogok pegpah te zazive abgo veb. Bid ka eg aw cerzefvuf mevu wi vaw ek vawkokav em kuhvucaw cif najgevma dirtumji buegucu hu ca. Sirlo puaguat ovzu ew ga guvofis mib gip mo feado kehireni dofto sodarlal nucubecuv juzog."
+  },
+  "apiKey": "77f34d1c332f2ebd3f881bd4b9ac7de710d55a1ad0d26ae89d7ae57b6e852b6c",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
