@@ -1,0 +1,26 @@
+{
+  "name": "Marc Potter",
+  "age": 20,
+  "address": {
+    "street": "Bonvu Lane",
+    "city": "Saarzo",
+    "state": "TX",
+    "zip": "26679"
+  },
+  "contact": {
+    "phone": "(258) 727-6008",
+    "servicePhone": "800339225"
+  },
+  "birthday": "1965-07-05T20:12:22.659Z",
+  "ip": "142.252.137.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Geh tuklo wirfod dabikat daeh laaw udinu fazi beibu coti nis cekabpum ruv vic opalelo. Ipnod donmoid zucu totob debuzlin upwe pu kopegzos jizdobti woj jesva jojjuzow at zipzauta. Nev su suranmov rarap zevsuva so luf fo nutci vaikasi jozade cocbuf jeuko du owdiv ta cabina. Dukegpud soocizir sob fofafuh ega ifa dargeul wodpobud cu orubodnu tawwunvi idrutre. Zup rilidfu nianimic lapzelcet te gosjo veiza seebo titebel irowofdi suweemu hofkifobe ekabup ispug ziwsuvus etjo pu betattes.",
+    "bio": "Uro de jaat wemotra wuppe naafweh fuhudbi ig lijcu ohi wukacote lez vi ulado uf tedzacur. Puh liciv so zih ejeevafal vahuz vov heb uro musrod hizizdof bienoba. Esik uj lom owmifit wabjies adju gipi carni neda pigpa cokana leud vicage ris awa. Targij fucgohef zoilge gurcesoh oracof mujik zerka si hirsiwje ohoca ni haczesog nop unfekfe."
+  },
+  "apiKey": "5be989f9047ee3a5c9a67f44c12a4b9c1d1e936a7e0b1dda9520755150c26c3e",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
