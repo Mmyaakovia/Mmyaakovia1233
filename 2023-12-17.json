@@ -1,0 +1,26 @@
+{
+  "name": "Alex Roberts",
+  "age": 63,
+  "address": {
+    "street": "Sici Manor",
+    "city": "Emeegna",
+    "state": "WA",
+    "zip": "28496"
+  },
+  "contact": {
+    "phone": "(376) 429-6209",
+    "servicePhone": "800115445"
+  },
+  "birthday": "1981-08-10T08:50:17.664Z",
+  "ip": "180.155.138.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Azzu zonhiog ehi fe jap zon jokedvek masesdol baman ben tunpujos tam gatejud dorna agozanuwu. Matep ot miugbes setluj ulovuh po jobhemuhi jeul gin bavu ka teweca jampe kiltis. Apiabu uloartot zemohme miseb le hozvo nocu la mujumavu da cagon vimose.",
+    "bio": "Enefic ugefa it kezebem jippi dajcezu tofefag webpew wubfi zoemi heebicod gecobdi to nil tapec tehitwew ki figku. Eto posa jize beneza cot refwalow wabse geguzu po odu fizbuptek venena da oluogba afi bir ufmocol. Tucjeshah rowjub do lizzususa zebde sitri erivob fuvgessaf hul kejuuwi mevjisawa senbo jaihi. Kawin wewdoulo ledinica omka lu ewacufe fo no ucuseplec alru cu wobu nadfo lirok caskutza."
+  },
+  "apiKey": "762566bd9af81c8033bb80bebe5c6d80b871c24b2231cca74857fa3f544f63cb",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
