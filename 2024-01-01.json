@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Mack",
+  "age": 60,
+  "address": {
+    "street": "Jaha Pass",
+    "city": "Dazabena",
+    "state": "WI",
+    "zip": "29577"
+  },
+  "contact": {
+    "phone": "(718) 817-7935",
+    "servicePhone": "800325593"
+  },
+  "birthday": "1974-02-13T06:13:41.738Z",
+  "ip": "29.79.84.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Oj cohir itze hoshiz vagso jidtesiz riza ped zus lupoga odadegov fovari pil mi. Sok gawen oz ber lut lamuw oma udeda jamohu lauf zic dec pab. Banmigbu udverewe rof noho mikheaw fo zugiwe fasauv coraj jidzu ho de putuliha lov si mikkaw.",
+    "bio": "Nuic esehurede ihloda hinediro citi ekpow in ettob im zo ca muha manci gamfow fuvezen fes. Kulobe elitofe wedsij hoc pad nulume felsu has binfeaco wicosal her kaj sanas. Gigape ce dim iztol durido niop ve vu enlum uj vap pebiduf cipdilkam. Oli westot ti akozi peda wa vudzok evaukacuz vodeora nukubo di vu ecuduaci lu az."
+  },
+  "apiKey": "b033329a78f33fd702d8283c82571cf0898b03c9d92fb494a7dea8f48b70fb24",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
