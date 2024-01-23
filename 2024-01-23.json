@@ -1,0 +1,26 @@
+{
+  "name": "Joe Elliott",
+  "age": 24,
+  "address": {
+    "street": "Kavfo Court",
+    "city": "Usuinago",
+    "state": "PA",
+    "zip": "81665"
+  },
+  "contact": {
+    "phone": "(242) 377-4643",
+    "servicePhone": "800983568"
+  },
+  "birthday": "2000-08-31T13:26:28.900Z",
+  "ip": "246.188.0.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozhoine maga get fobmoj talah nej kuvildi kawzarek wikucew obagavfu jutvaz subuvic hadjad purjah tedikac edfigwaf bedul wechoz. Mul gupujbi fe anvuzkuw uritojru dukbihtiw teepi reretab ehi welsusu okailomiv web nozuci. Red sodegsul tilo juug bedre giovega ove tiskotuh giw gewuz so sacvo zabitnud vafsi hucika zikbumca. Otijesim tufkuve pecpigre ha ubu cigrul dukuvoje gun fup rup men dibezi do unucar. Apojlad jipka cuj kizgagec wala vefi vodo lepga zuvo difebi il ni pubuhur cuvnebta rih gu.",
+    "bio": "Hofe tifjiv ojsetwu mefpah bodpooti popihcuh anepaw wive uhe mafdi vezehsu odita toize ma dotlupize gola adehalhi jisazju. Tilubbi reom di amhazo vo keaszi buwovwif lu nom pezazluf kelitlu veptun kofe adnene me sekoffuz. Kolze pi sof ko nuktot daled rah lo cet rujiwjas cuvjizlan sij ud lovug rojbu keniuv ucaip muz."
+  },
+  "apiKey": "0044a58f5d67a40cbbb2cf830c416738f7605b76cae7711e7c5f32e6ef60d78b",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
