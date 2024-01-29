@@ -1,0 +1,26 @@
+{
+  "name": "Cory Byrd",
+  "age": 58,
+  "address": {
+    "street": "Durse Place",
+    "city": "Himibuv",
+    "state": "CA",
+    "zip": "22117"
+  },
+  "contact": {
+    "phone": "(304) 212-9997",
+    "servicePhone": "800942542"
+  },
+  "birthday": "1961-05-10T03:34:54.378Z",
+  "ip": "239.224.109.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Regid dancevvaj izuowa elipi zos vunva sig dal mofutrih ged umupu muane wavu opruno iksastib uppu. Uzmi jojwe cat mabci ic doj zokaw fire boga lunhe sagmuf elonol er. Baemda aha jotezo wihimpip ruusugu ludmiz ravka nifjah godagi egebo bikih cu omedec wiohebob fezo.",
+    "bio": "Lu keutbot ahle atetaaz zih kazdugo hucos pa favfoini judbud nusim te. Rehoka na ej fi mudse gimog dopew ajrag fiiwvos unve nit juz. He jimi dazij wuwu ufifaguw ni borzin mazajej piva cohtig te kaobriv uhu hoeja mubudlo usalim fura ima. Bom iz devarlif gese inhubva zi nifis ziw dagikha guceru ajmilzir mi."
+  },
+  "apiKey": "bb250dc1dce32acee315b8b4e83b9a20cafffb3fe3a42dbdd3afb49e3e2097df",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
