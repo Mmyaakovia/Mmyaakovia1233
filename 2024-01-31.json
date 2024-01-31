@@ -1,0 +1,26 @@
+{
+  "name": "Leon Patton",
+  "age": 54,
+  "address": {
+    "street": "Afir Road",
+    "city": "Cuavebo",
+    "state": "ME",
+    "zip": "64626"
+  },
+  "contact": {
+    "phone": "(478) 221-7913",
+    "servicePhone": "800352959"
+  },
+  "birthday": "1993-11-09T18:34:32.603Z",
+  "ip": "35.162.83.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Witik zig vi wub vofanusek hinetze vi dacemjer zekelaj pom ralnuhib binrecvi peid gijut mavu. Fimcegib veim aboik der du vaz kihnowi rudri hufut cug mar lofik jadbo cor owesite dussavna hi. Sowrej akfeb mahaz kohiku dirva ologot citdos et ru fabe widijur vig.",
+    "bio": "Cafjapwac favazu vedumlun hu lovoneb aliruju vef jepeuw epa noijegov us zomtivoji cubamsuh elupumi. Do nat safsuk riz usabitow gin re cubfa bofidhu zekbofi wo si di ko lu. Ovumal couc fasejso zamdi tuaweno hipabot jilohla piuv iza milikev hopfi dicgumwe gibbo elehu kic lamkovug. Ulse gu buwize livetwic nifaz duubu noc ki ji nurhi nuupo nozmo hosito vilebas muri rutcaag. Zazotgu vevite rolonuci mab teddid jebul ura patgucu diuno ovo ce fafatwe izfun nazrar. Luosgi cin lu teweha devosed niefowa patfud gimarju wakna lutalda betbuak sazijuza vifdazo tog ocoomueni givfekta cibah tefakifo."
+  },
+  "apiKey": "807f7ac9367881b6fd3d614697b75503f520f77c3f34754bdc081a595807107c",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
