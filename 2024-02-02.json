@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Gilbert",
+  "age": 58,
+  "address": {
+    "street": "Rida View",
+    "city": "Umdibi",
+    "state": "MD",
+    "zip": "06110"
+  },
+  "contact": {
+    "phone": "(604) 987-3160",
+    "servicePhone": "800425818"
+  },
+  "birthday": "1995-02-01T21:37:02.451Z",
+  "ip": "25.162.195.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Wewo jiam ruvnegu zime bew ekir luafa hassewiji coc wuh neohe lewte zu rev pilof enirengic ce nopnonmu. Dibo zepvudiro ruc kid le wul na pof itfiman rihwesan hiz ure jifu. Bejom po sonujsas wa jom badnorbas ta bizlan onzesa mek ad atufiowe iwu lu bud nur nuhovzuw. Gajfep vetov dihfi kozibuf ve em decgir tudli ritpujeh bidduhi jupu ik. Repzar cegwamag moupu zorezonu rurmew hopu tumot fipke juop rerpoc vujicodu fovajuimi peccude suj pikzen ehalitfov navkofsi. Wi nane vi zotutav ake he caf gaba pirganjin iveubu nibak ikudiovi uw germap zim.",
+    "bio": "Vizseor ha zenahu ovkutov du teuh puokdih ce wizesva dapkedop sasupirim ti wibaji zizera uzkev. Piuv jumki femewil haw izufofir bozsos barzap azceh li vemu otnehi pu se vikod. Fo wub ah zegad uva etpino to bih ogkoz meaf kivib gukufme. Haddu hibjosas idolovir muagpaw wop milo ip awa co ku juwpabuj atigepah wuaw mamecik regu. Vegtelpuc regog er tikelgi wikho bin acocuv tiumu zigukobop liv oc afo. An fe eb ibo dumjuek udbof rewando odluhfas zorwiv haf aguzegzo iduzib. Gerdo rac luceh sojelgaf bighe isapi poegeeg rubfuhec seikru edo haola gu."
+  },
+  "apiKey": "ccc808b2918c40e061ff113ed0430f94ff4c16aae5206bbbc69d5bf5953c3111",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
