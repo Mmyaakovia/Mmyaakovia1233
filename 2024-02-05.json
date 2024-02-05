@@ -1,0 +1,26 @@
+{
+  "name": "Harold Olson",
+  "age": 60,
+  "address": {
+    "street": "Kiket Court",
+    "city": "Fulbizram",
+    "state": "HI",
+    "zip": "07896"
+  },
+  "contact": {
+    "phone": "(233) 354-2179",
+    "servicePhone": "800335855"
+  },
+  "birthday": "2001-03-13T14:23:37.590Z",
+  "ip": "239.92.47.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Vegej elide lurbow nazre gahuhuw uki zofnat zunfog jidaomu rahpitkov fijefic loratdi gib. Cucnuvfa lo peblik ko so lufuha putac omikasef surfo fuhzonil iwuzamzos modof bavisagi. Meh ud suhwe rawamgu tisduc puwib mo lejlabva luhwoika vofe fuvelup ha taifeke gu dep fasovinu. Pelgizaw wa liswelzim job nuk bemav bejvahif suk mihgav gotil me fihcidoc pi odcupcu sot opesimrag.",
+    "bio": "Vobakdu ejitup unric wohof nawevpob bupsatde wiso hesowub wejnulge sugilijaj rihmikure rurmiv. Dussuga beni gunotamu mugvodoz mu osweaf ugubohe vuhfa zefwowu dorido kokige omunaj ducaso mauz julfiz. Tuvut det tackid ci hifhuiso javaspo je japbo ir vomot nedeh zak. Reud keepirub tobked bet kelsufaw sabe ul keevti kijek bil ja iculah vaefe bok nulze pa tadlejihe. Fos videhla oruep miwtad ja obvi tubot werre azli ko agirajaz hobmuz cas um sacec natrada alpiebi duceto."
+  },
+  "apiKey": "0ddd47f43c6730b7975f5b2935662d2d8495bd07be7762a5bc50e6813641b77c",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
