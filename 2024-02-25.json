@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Mack",
+  "age": 51,
+  "address": {
+    "street": "Vorha River",
+    "city": "Vorobuh",
+    "state": "SD",
+    "zip": "91363"
+  },
+  "contact": {
+    "phone": "(670) 648-7520",
+    "servicePhone": "800247299"
+  },
+  "birthday": "1970-09-10T08:50:12.905Z",
+  "ip": "38.180.31.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Lolami fep vumnovu jivbu no ruge arsudi tuleh ogiwovpi bogmeoko iki jutza jumwiuru iwjosi nanjelgak zevcasa en josubwe. Fom zuepcu evbemez vo no lihfijac uh kupvak mabusbo wojek ejisel we luk fofro. Musaota nougrun zu lepohzi ta pi rur estevuce kigzebe go jipkefmig tizvih sem.",
+    "bio": "Pilgo leas nicakki pa tej bo rivjeb onipo lebet loamev hitgafen ozi to iwoeb. Apubi vafked nu sahuzem cul wagiama pedajlo bufmefun duslu kored isow opo umhavaw. Weji zaecogun wef akapi ose picunbep jevhil olilibuk dutactot un muk husig cibin. Ifi pafwuleko meloke hok pi non aloiro ikafi juzakoz woh olipe va ebhe egi rem rit efbi zojigi."
+  },
+  "apiKey": "1aaff802b296ad0da15583a102d12ed4e75a047dd5d653a30fc4e09f826caa76",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
