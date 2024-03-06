@@ -1,0 +1,26 @@
+{
+  "name": "Julia Harvey",
+  "age": 21,
+  "address": {
+    "street": "Popi Path",
+    "city": "Mawoij",
+    "state": "LA",
+    "zip": "35569"
+  },
+  "contact": {
+    "phone": "(649) 324-6201",
+    "servicePhone": "800348615"
+  },
+  "birthday": "1966-07-25T14:18:46.793Z",
+  "ip": "92.208.10.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Mo tu hathu kafidza umviwpo wus wumbo tuz tejepte ulo vidiro ma lezo ki ed gotes goliv toumso. Rul guc cu libu sisuv feguaz kunmo pafrargi cofkuram ec idovuhi gem pokopci fu uga. Retu con si kehat gutozuj icluke ek jajih juz kuk ad gadfiba debjug wocdumha ciuv gaz guluhpug jigwe. Jurzoc hu nabimmuk ku ubikek ijha miawcem wag na fiskevo faacud nekvujgoz cauze hap un. Lig zumcuf gadowuf ve ipmu fihu zoleju tadpuva ki mibeha ublozod noruguv fofugzow uri do amloope saz zika. Eg cadka molzu ot necloc cuga puh awon mu loin huhpeek fejtubfe go izohaja.",
+    "bio": "Sic fippug mebepuedu ege fuejjah komsoj jep avocotoc sakuf rutotju fimipofe ca tipa seprihwuf akeeg. Socvagfaw sewa keohafuh luone fop kur jep wivo ub tugi po sakuz wolli pobdo lenem lenvij. Cuc duaw ucmag fon canduf venrociv pu su aztu po jeufe vicidooz apu feig ec."
+  },
+  "apiKey": "f0b006138d7dced554f5ac352805062a8d3e16334e991ccbf00599f8166f55c7",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
