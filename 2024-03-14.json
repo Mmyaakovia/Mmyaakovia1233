@@ -1,0 +1,26 @@
+{
+  "name": "Olga Jenkins",
+  "age": 19,
+  "address": {
+    "street": "Bijri Point",
+    "city": "Zeagni",
+    "state": "MD",
+    "zip": "47615"
+  },
+  "contact": {
+    "phone": "(286) 882-9094",
+    "servicePhone": "800692688"
+  },
+  "birthday": "1996-06-05T09:31:17.378Z",
+  "ip": "213.211.132.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Ni gig gufingok tit wurcal asiefhi leres ulami edujekjip edogezi wawgofa ma ra mu jac fe. Sa tocohcog edeolli bok he hevvud nevsod filcov kowapu seca tooj udu zesaptav gumemib liwwofzos. Ka za veiggi ihaimoov kutliupi vipdib toebo do pigivdih ke vula terefgon dazhadpev te fiev we gurterlel.",
+    "bio": "Ofa becim doumaezi uc fikeh ulaoj cozvomwa le wutejeh guni babu sohis du ipiurbap foj udlette upoalhis gi. Murer rujugjot vazsekul ajejon ohohi tuifu insa he eh kopve efe hejohilav ci. Owlap bur su omupoif miwnicod to uwmo cifi tip zod mepbiwwa tu po."
+  },
+  "apiKey": "d3510d3ec1391da1268fe42a3eac02c15deff7359875a816766e11b4b269b6b9",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
