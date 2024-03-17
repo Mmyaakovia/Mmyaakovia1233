@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Simmons",
+  "age": 33,
+  "address": {
+    "street": "Kediv Road",
+    "city": "Wasafro",
+    "state": "NV",
+    "zip": "74153"
+  },
+  "contact": {
+    "phone": "(558) 729-3073",
+    "servicePhone": "800153563"
+  },
+  "birthday": "1975-05-25T07:06:02.745Z",
+  "ip": "27.111.67.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Rirum paj ro vaf lo ew otdehvu gobivi cuber imison iga focofer rosku rozesvap nikosuc loghorug. Hokdow kizaj wizetduf vo sidhic wihrovda livegkis kevi raje igi to azsiku ki edgi. Fuk nabi loddisled cobeju juhhiz wave abusoce vipiruon mofit cud apfimof han.",
+    "bio": "Tol uwo wut pe es ca iluke wewon toin ni afidoise narrop. Pavwu kutmoka imi wog mug tekzegir zewawgu wohokuf saj zohje motev ilopo semajuna toisuwu. Hizovwo kete oci bi obzazmiz voca maetsip haba fuzipfon ligo com doled kir huliz moc. Icecvo gohatoh pamogtep zontehe epju limofavo viani wuwvigce tokomiga coojamo ci si eniki vathatpo goplok refgo ozmiz dogisfi."
+  },
+  "apiKey": "b2654e9d8960cfbfe505cf13b79c118d7b09963798b5cbb7b3b2b8b422f7ca75",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
