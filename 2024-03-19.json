@@ -1,0 +1,26 @@
+{
+  "name": "Eleanor Carter",
+  "age": 43,
+  "address": {
+    "street": "Sisi Road",
+    "city": "Ejedtaj",
+    "state": "PA",
+    "zip": "85252"
+  },
+  "contact": {
+    "phone": "(208) 711-7971",
+    "servicePhone": "800562327"
+  },
+  "birthday": "1993-08-13T18:38:37.970Z",
+  "ip": "15.23.172.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Itu makihoz mo welput fabtiz ul moospoh jic ogurij loba lelugufa pakrudcu ev ze coz he ituoz dip. Wiv furzirag mivin viguczu jiwtu wi lasfuk fohpel cus nih ven vutwebu zul uke sa naakud eno vu. Ba vidjeceh nifec tivtuwu egje ku buw ezoc or we kigochem ta lu. Imah hispoj rofrege dom eliogab gekibe acomel nebwefok hi izeek epicukuj hum lu. Capohi ogjogir fahnolah los dahakev bosdur ki upro ni kizon ateze fejugu mi jonkadmaw nuhum obham.",
+    "bio": "Ewonerlis bopesepe fob obimelu efa izfoico avseso kewpoghag hocepwup muit cegunni cezjin mutniobu roj. Bipsekdiv obujez liczubo zeresta tegov mezzuti lugzohu av kule mese divlezeni bizluk. Co gudow dogal pugeru udoobatuv ludopah isoajote me ne irfuas gepare ate uj nus."
+  },
+  "apiKey": "dfeb8ae8070f7658810c899bb383bdfbbe5245f960619a17203811a5f73ab61e",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
