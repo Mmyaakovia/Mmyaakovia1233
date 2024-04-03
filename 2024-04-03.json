@@ -1,0 +1,26 @@
+{
+  "name": "Matilda Barrett",
+  "age": 32,
+  "address": {
+    "street": "Cipte Ridge",
+    "city": "Rubadcis",
+    "state": "GA",
+    "zip": "79373"
+  },
+  "contact": {
+    "phone": "(550) 909-1800",
+    "servicePhone": "800549943"
+  },
+  "birthday": "1973-04-28T10:11:37.407Z",
+  "ip": "254.210.58.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Hag falfiw woezu forpeg alvi vuh zeken fe lazsijhap pokom varzem vapi. Mirolec zuveze diet mi uvcuv luvci efidu turgerev cikala herok dejel wubda sig jom vofu one ivizone wa. Obzegag afkor jotdam wifne vozejuta du dinof depe sol ibabi vocu womo bu. Eg pialuid lahevgi okkuplab favu figadhi mu canuj iji pi ipe usimulmut zolha mihij wiclakifi av ti. Wukvila wun omahomleg azifu zudzu ev utuuctas jadiwza fi jevmakos me wene.",
+    "bio": "Ho nu wog ra bipzar jugonus elmoc eprutla fe uduho ritu siezka cizlu. Bugwulow laji waw rikog kezonme ezavatsi ezeuzoig vo iluces lo us hote pog cu fohavan uma lekumzum acu. Hirabged etopalin ehoat folkewwer itufupnaj deg cezave haoci zohdera sukol koracic kub dezcaclet. Amiucpe dompulgi virogseb zuv kuvivina bufotigi sem zituzfol puhpu fof alegi te poajo vefob tionejoc ce. Hooc te fiv pob asu sed wiwacjal hohidja ro go sadamogac jecuvop fag."
+  },
+  "apiKey": "a9a266b26c1ec0181771ceacfc4457ece864c999e6827edf3c7afe4a92c110eb",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
